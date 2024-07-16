@@ -1,7 +1,7 @@
 /* 
  * Nazwa skryptu: Ustaw/Pobierz notatki dotyczące wioski 
  * Wersja: v1.3.0 
- * Ostatnia aktualizacja: 2024-07-16 
+ * Ostatnia aktualizacja: 2023-04-19 
  * Autor: RedAlert 
  * Adres URL autora: https://twscripts.dev/ 
  * Kontakt z autorem: redalert_tw (Discord) 
@@ -10,6 +10,9 @@
  * Mod: JawJaw 
  */ 
 
+/*---------------------------------------------------------------------------------------------------- 
+ * Tego skryptu NIE MOŻNA klonować i modyfikować bez pozwolenia autora skryptu. 
+ --------------------------------------------------------------------------------------*/ 
 
 // Dane wejściowe użytkownika 
 if (typeof DEBUG !== 'boolean') DEBUG = false; 
